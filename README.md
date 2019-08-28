@@ -1,2 +1,2 @@
 # sql-marathon-sbbd-2019
-repository of training
+repository of train (level medium and hard)
